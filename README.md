@@ -2,4 +2,4 @@
 TEST
 
 <img src=1 >
-<script>console.log<script>
+<script>console.log('sucess')<script>
